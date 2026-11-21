@@ -1,0 +1,7 @@
+.quarto/
+.Rproj.user/
+_site/
+.Rhistory
+.RData
+
+/.quarto/
